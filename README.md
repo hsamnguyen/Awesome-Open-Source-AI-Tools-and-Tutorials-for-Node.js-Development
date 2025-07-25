@@ -1,8 +1,8 @@
 # Awesome Open-Source AI Tools and Tutorials for Node.js Developers
 
-[![GitHub stars](https://img.shields.io/github/stars/YOUR_USERNAME/YOUR_REPO.svg?style=social&label=Star&maxAge=2592000)](https://github.com/YOUR_USERNAME/YOUR_REPO/stargazers/)  
-[![GitHub forks](https://img.shields.io/github/forks/YOUR_USERNAME/YOUR_REPO.svg?style=social&label=Fork&maxAge=2592000)](https://github.com/YOUR_USERNAME/YOUR_REPO/network/)  
-[![GitHub issues](https://img.shields.io/github/issues/YOUR_USERNAME/YOUR_REPO.svg)](https://github.com/YOUR_USERNAME/YOUR_REPO/issues/)  
+[![GitHub stars](https://img.shields.io/github/stars/YOUR_USERNAME/YOUR_REPO.svg?style=social&label=Star&maxAge=2592000)](https://github.com/hsamnguyen/Awesome-Open-Source-AI-Tools-and-Tutorials-for-Node.js-Development/stargazers/)  
+[![GitHub forks](https://img.shields.io/github/forks/YOUR_USERNAME/YOUR_REPO.svg?style=social&label=Fork&maxAge=2592000)](https://github.com/hsamnguyen/Awesome-Open-Source-AI-Tools-and-Tutorials-for-Node.js-Development/network/)  
+[![GitHub issues](https://img.shields.io/github/issues/YOUR_USERNAME/YOUR_REPO.svg)](https://github.com/hsamnguyen/Awesome-Open-Source-AI-Tools-and-Tutorials-for-Node.js-Development/issues/)  
 
 This repository curates a collection of awesome open-source AI-powered tools, workflow automation platforms (inspired by n8n), AI libraries, frameworks, and advanced tutorials tailored for coders and developers working in the Node.js stack (including Nuxt.js, Next.js, and other full-stack Node.js setups). Focus is on self-hosted, integrable solutions for building AI agents, automations, and ML features in development pipelines. Updated as of July 25, 2025, with the latest tools and tutorials.
 
