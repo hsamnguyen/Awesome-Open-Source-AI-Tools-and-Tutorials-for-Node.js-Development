@@ -52,6 +52,7 @@ JS/Node.js-specific libraries for integrating AI into apps like Next.js APIs or 
 | TensorFlow.js  | Powerhouse ML library for training and deploying models in Node.js.         | [github.com/tensorflow/tfjs](https://github.com/tensorflow/tfjs) |
 | OpenAI Node SDK| Official SDK for integrating OpenAI APIs (e.g., GPT models) in Node.js.    | [github.com/openai/openai-node](https://github.com/openai/openai-node) |
 | Node-NLP      | Natural language processing library for Node.js.                            | [github.com/axa-group/nlp.js](https://github.com/axa-group/nlp.js) |
+| xmcp | TypeScript framework for exposing tools, resources, and prompts to AI applications through MCP. | [github.com/basementstudio/xmcp](https://github.com/basementstudio/xmcp) |
 
 Curated list: [github.com/scrimba/awesome-javascript-ai](https://github.com/scrimba/awesome-javascript-ai).
 
